@@ -33,3 +33,13 @@ canvas
     margin-top: 130px;
     box-shadow: 5px 10px 30px rgb(52, 155, 126);
 }
+
+label
+{
+    color: whitesmoke;
+}
+
+input
+{
+    width: 30%;
+}
